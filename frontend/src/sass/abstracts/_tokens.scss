@@ -7,9 +7,15 @@ $option-anim-button-overlay: true;
 
 // Colors
 $clr-primary-400: map-get(map-get($active-theme, 'primary'), 400);
+$clr-primary-500: map-get(map-get($active-theme, 'primary'), 500);
 
+$clr-neutral-300: map-get(map-get($active-theme, 'neutral'), 300);
 $clr-neutral-400: map-get(map-get($active-theme, 'neutral'), 400);
 $clr-neutral-500: map-get(map-get($active-theme, 'neutral'), 500);
+$clr-neutral-600: map-get(map-get($active-theme, 'neutral'), 600);
+
+$clr-misc-text-muted: map-get(map-get($active-theme, 'misc'), 'text-muted');
+$clr-misc-error: map-get(map-get($active-theme, 'misc'), 'error');
 
 // Global
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@200;300;400;500;600&display=swap');
@@ -17,11 +23,11 @@ $clr-neutral-500: map-get(map-get($active-theme, 'neutral'), 500);
 $global-primary-font: 'Ubuntu';
 $global-color-scheme: dark;
 
-$global-background: black;
+$global-background: $clr-neutral-400;
 $global-font-size: var(--fs-400);
 $global-font-family: $global-primary-font, system-ui;
 
-$border-radius-bevelled: 9px;
+$border-radius-bevelled: 6px;
 $border-radius-max: 100vmax;
 
 $z-index-10: 999;
@@ -51,7 +57,8 @@ $a-color: $clr-primary-400;
 
 // Button
 $button-primary: $clr-primary-400;
-$button-border-radius: $border-radius-bevelled;
+$button-neutral: $clr-neutral-600;
+$button-error: $clr-misc-error;
 
 $button-padding: 0.5rem 0.85rem;
 $button-padding-tiny: 0.1rem 0.6rem;
@@ -59,14 +66,17 @@ $button-padding-small: 0.25rem 0.8rem;
 $button-padding-big: 0.6rem 1.2rem;
 $button-padding-huge: 0.85rem 1.4rem;
 
+$button-border-radius: $border-radius-bevelled;
 $button-border-thickness: 2px;
 $button-overlay-brightness: 50%;
+
 $button-hologram-transparency: 0.55;
+$button-hologram-background-lightness: 8%;
 
 $buttom-anim-rotate-icon-duration: 1s;
 $button-anim-overlay-duration: 0.35s;
 
-// Button
+// Input
 $input-primary: $clr-neutral-400;
 $input-primary-neutral: $clr-neutral-500;
 
@@ -77,3 +87,7 @@ $input-border-thickness: 2px;
 $input-end-icon-left: 92%;
 $input-end-icon-brightness: 55%;
 $input-border-color-transition-duration: 244ms;
+
+// Uni Logo
+$uni-logo-small-size: 4rem;
+$uni-logo-large-size: 9rem;

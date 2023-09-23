@@ -1,0 +1,7 @@
+@use '../abstracts/' as *;
+
+.primary-navbar {
+    .uni-logo {
+        max-width: $uni-logo-small-size;
+    }
+}

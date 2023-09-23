@@ -28,7 +28,7 @@
 	const _class = cls.extend(
 		'',
 		'button',
-		`${to ? 'display-block' : ''}`
+		`${to ? 'display-block' : ''} fw-500`
 	);
 
 	let _this: HTMLElement;

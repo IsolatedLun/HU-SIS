@@ -1,0 +1,22 @@
+@use '../abstracts/' as *;
+
+.table-container {
+    border: 2px solid $clr-neutral-600;
+    border-radius: $border-radius-bevelled;
+    table {
+        border-collapse: collapse;
+        font-size: var(--fs-350);
+    }
+    
+    tr {
+        background-color: $clr-neutral-500;
+    }
+
+    tr:nth-child(2n) {
+        background-color: $clr-neutral-400;
+    }
+
+    tr td {
+        padding: 0.65rem 1rem;
+    }
+}

@@ -1,0 +1,14 @@
+@use '../abstracts/' as *;
+
+.intro {
+    display: grid;
+    grid-template-columns: 40% 60%;
+
+    .uni-logo {
+        max-width: 10rem;
+    }
+
+    &__img {
+        filter: blur(4px) brightness(0.5);
+    }
+}
