@@ -1,0 +1,14 @@
+@use '../abstracts/' as *;
+
+.dropdown-container {
+    .dropdown-list {
+        display: none;
+        background-color: $dropdown-background;
+        border-radius: $border-radius-bevelled;
+        border: $dropdown-list-border;
+    }
+
+    &:is(:hover) .dropdown-list {
+        display: block;
+    }
+}

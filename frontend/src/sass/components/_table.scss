@@ -1,7 +1,7 @@
 @use '../abstracts/' as *;
 
 .table-container {
-    border: 2px solid $clr-neutral-600;
+    border: $table-border;
     border-radius: $border-radius-bevelled;
     table {
         border-collapse: collapse;
@@ -9,11 +9,11 @@
     }
     
     tr {
-        background-color: $clr-neutral-500;
+        background-color: $table-bright-background;
     }
 
     tr:nth-child(2n) {
-        background-color: $clr-neutral-400;
+        background-color: $table-background;
     }
 
     tr td {

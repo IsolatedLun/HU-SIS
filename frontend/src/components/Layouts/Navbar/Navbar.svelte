@@ -1,8 +1,11 @@
 <script lang="ts">
+	import { urlStore } from '../../../stores/urlStore/urlStore';
 	import Button from '../../Interactibles/Button/Button.svelte';
+	import DropDown from '../../Modules/DropDown/DropDown.svelte';
 	import Flex from '../../Modules/FlexAndGrid/Flex.svelte';
 	import Icon from '../../Modules/Icon/Icon.svelte';
-	import { ICON_CARET_RIGHT, ICON_POWER } from '../../icons';
+	import { ICON_POWER } from '../../icons';
+	import NavbarLinkSection from './NavbarLinkSection.svelte';
 </script>
 
 <nav class="[ primary-navbar ] [ margin-block-2 padding-inline-4 ]">
@@ -13,32 +16,15 @@
 				<h1>HU</h1>
 			</Flex>
 		</a>
-		<Flex align="center" justify="center" gap={3}>
-			<Flex justify="center" gap={0}>
-				<Button
-					variant="neutral"
-					attachments={['hologram', 'mix', 'flat', 'border-none', 'huge-pad', 'border-bevel-left']}
-				>
-					<Flex align="end">Setup</Flex>
-				</Button>
-				<Button
-					variant="neutral"
-					attachments={['hologram', 'mix', 'flat', 'border-none', 'huge-pad']}
-				>
-					<Flex align="end">Registration</Flex>
-				</Button>
-				<Button
-					variant="neutral"
-					attachments={['hologram', 'mix', 'flat', 'border-none', 'huge-pad', 'border-bevel-right']}
-				>
-					<Flex align="end">Student Info</Flex>
+		<div data-desktop='true'>
+			<Flex align="center" justify="center" gap={3}>
+				<NavbarLinkSection />
+				
+				<Button to='./' variant="error" attachments={['hologram', 'mix']}>
+					<span>Logout</span>
+					<Icon>{ICON_POWER}</Icon>
 				</Button>
 			</Flex>
-
-			<Button variant="error" attachments={['hologram', 'mix']}>
-				<span>Logout</span>
-				<Icon>{ICON_POWER}</Icon>
-			</Button>
-		</Flex>
+		</div>
 	</Flex>
 </nav>
