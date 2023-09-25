@@ -1,10 +1,10 @@
 export interface Schedule {
-    section: string;
     location: string;
-
-    days: string[];
+    
+    days: ("M" | "T" | "W" | "TH" | "F")[];
     time: [Date, Date]
     
+    section: number;
     credits: number;
 }
 

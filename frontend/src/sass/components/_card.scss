@@ -1,0 +1,11 @@
+@use '../abstracts/' as *;
+
+.card {
+    border-radius: $border-radius-bevelled;
+    border: $card-border;
+
+    &[data-variant='neutral'] {
+        background-color: $card-neutral-background;
+        border-color: $card-neutral-border-color;
+    }
+}

@@ -2,13 +2,13 @@
 
 .dropdown-container {
     .dropdown-list {
-        display: none;
+        visibility: hidden;
         background-color: $dropdown-background;
         border-radius: $border-radius-bevelled;
         border: $dropdown-list-border;
     }
 
     &:is(:hover) .dropdown-list {
-        display: block;
+        visibility: visible;
     }
 }

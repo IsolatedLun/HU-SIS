@@ -5,3 +5,25 @@
         max-width: $uni-logo-small-size;
     }
 }
+
+.mobile-navbar {
+    right: 0;
+    width: 100%;
+    height: 100%;
+    translate: 100%;
+    
+    background-color: $mobile-navbar-background;
+    
+    visibility: hidden;
+    transition: translate $mobile-navbar-transition-duration ease-in-out;
+    z-index: $z-index-10000;
+
+    &[data-show='true'] {
+        visibility: visible;
+        translate: 0%;
+    }
+
+    &__uni-logo {
+        max-width: $uni-logo-small-size;
+    }
+}

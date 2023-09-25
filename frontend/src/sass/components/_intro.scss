@@ -1,14 +1,13 @@
 @use '../abstracts/' as *;
 
 .intro {
-    display: grid;
-    grid-template-columns: 40% 60%;
+    grid-template-columns: $intro-grid;
 
     .uni-logo {
-        max-width: 10rem;
+        max-width: $uni-logo-large-size;
     }
 
     &__img {
-        filter: blur(4px) brightness(0.5);
+        filter: $intro-img-filter;
     }
 }

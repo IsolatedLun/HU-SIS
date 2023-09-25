@@ -4,8 +4,10 @@
 	import DropDown from '../../Modules/DropDown/DropDown.svelte';
 	import Flex from '../../Modules/FlexAndGrid/Flex.svelte';
 	import Icon from '../../Modules/Icon/Icon.svelte';
-	import { ICON_POWER } from '../../icons';
+	import { ICON_BARS, ICON_POWER, ICON_TIMES } from '../../icons';
 	import NavbarLinkSection from './NavbarLinkSection.svelte';
+
+	let showMobileNavbar = false;
 </script>
 
 <nav class="[ primary-navbar ] [ margin-block-2 padding-inline-4 ]">
@@ -13,7 +15,6 @@
 		<a href="https://www.haigazian.edu.lb/" target="_blank">
 			<Flex align="center" justify="start" gap={2}>
 				<img class="uni-logo" src="./haigazian_logo.png" alt="Haigazial logo" />
-				<h1>HU</h1>
 			</Flex>
 		</a>
 		<div data-desktop='true'>
@@ -26,5 +27,20 @@
 				</Button>
 			</Flex>
 		</div>
+
+		<div data-mobile='true'>
+			<Button on:click={() => showMobileNavbar = !showMobileNavbar} variant='neutral' attachments={['mix']}>
+				<Icon ariaLabel='Open navigation'>{ICON_BARS}</Icon>
+			</Button>
+		</div>
+	</Flex>
+</nav>
+
+<nav class="[ mobile-navbar ] [ pos-fixed padding-1 ]" data-show={showMobileNavbar}>
+	<Flex align='center' justify="space-between">
+		<img class="mobile-navbar__uni-logo" src="./haigazian_logo.png" alt="Haigazial logo" />
+		<Button on:click={() => showMobileNavbar = !showMobileNavbar} variant='error' attachments={['hologram', 'mix']}>
+			<Icon ariaLabel='Close navigation'>{ICON_TIMES}</Icon>
+		</Button>
 	</Flex>
 </nav>

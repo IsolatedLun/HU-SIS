@@ -13,6 +13,8 @@ $clr-neutral-300: map-get(map-get($active-theme, 'neutral'), 300);
 $clr-neutral-400: map-get(map-get($active-theme, 'neutral'), 400);
 $clr-neutral-500: map-get(map-get($active-theme, 'neutral'), 500);
 $clr-neutral-600: map-get(map-get($active-theme, 'neutral'), 600);
+$clr-neutral-700: map-get(map-get($active-theme, 'neutral'), 700);
+$clr-neutral-800: map-get(map-get($active-theme, 'neutral'), 800);
 
 $clr-misc-text-muted: map-get(map-get($active-theme, 'misc'), 'text-muted');
 $clr-misc-error: map-get(map-get($active-theme, 'misc'), 'error');
@@ -88,6 +90,14 @@ $input-end-icon-left: 92%;
 $input-end-icon-brightness: 55%;
 $input-border-color-transition-duration: 244ms;
 
+// Navbar
+$mobile-navbar-background: $clr-neutral-600;
+$mobile-navbar-transition-duration: 444ms;
+
+// Intro
+$intro-img-filter: blur(4px) brightness(0.5);
+$intro-grid: 40% 60%;
+
 // Table
 $table-border: 1px solid $clr-neutral-600;
 $table-background: $clr-neutral-400;
@@ -98,8 +108,17 @@ $uni-logo-small-size: 4rem;
 $uni-logo-large-size: 9rem;
 
 // Dropdown
-$dropdown-background: $clr-neutral-500;
+$dropdown-background: $clr-neutral-300;
 $dropdown-list-border: 1px solid $clr-neutral-600;
 
+// Card
+$card-border: 1px solid transparent;
+
+$card-neutral-background: $clr-neutral-500;
+$card-neutral-border-color: $clr-neutral-600;
+
+// Text
+$text-underline-width: 2px;
+
 // Footer
-$footer-background: $clr-neutral-600;
+$footer-background: $clr-neutral-300;

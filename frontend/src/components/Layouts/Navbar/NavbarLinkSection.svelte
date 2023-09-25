@@ -15,7 +15,7 @@
                 <Button
                     variant="neutral"
                     attachments={[
-                        'hologram', 'mix', 'flat', 'border-none', 'huge-pad', 
+                        'mix', 'flat', 'border-none', 'huge-pad', 
                         i === 0 
                         ? 'border-bevel-left' 
                         : i === Object.keys($urlStore).length - 1

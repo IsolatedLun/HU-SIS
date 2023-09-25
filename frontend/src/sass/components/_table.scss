@@ -3,6 +3,7 @@
 .table-container {
     border: $table-border;
     border-radius: $border-radius-bevelled;
+    
     table {
         border-collapse: collapse;
         font-size: var(--fs-350);
@@ -16,7 +17,8 @@
         background-color: $table-background;
     }
 
-    tr td {
+    tr td,
+    tr th {
         padding: 0.65rem 1rem;
     }
 }
