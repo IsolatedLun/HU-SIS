@@ -4,8 +4,6 @@
 	import Button from "../../Interactibles/Button/Button.svelte";
 	import DropDown from "../../Modules/DropDown/DropDown.svelte";
 	import Flex from "../../Modules/FlexAndGrid/Flex.svelte";
-
-
 </script>
 
 <Flex gap={0}>

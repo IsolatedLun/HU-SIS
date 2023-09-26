@@ -1,9 +1,9 @@
 import { get, writable } from "svelte/store"
-import type { Schedule, User } from "./types"
+import type { Schedule, Store_User } from "./types"
 import { calculateTotalCredits, calculateTotalHours } from "./funcs";
 
 function createUserStore() {
-    const store = writable<User>({
+    const store = writable<Store_User>({
         id: -1,
         name: "",
         schedule: {}

@@ -8,7 +8,7 @@
 
 	const _class = cls.extend(
         'card',
-        '',
+    '',
         `padding-${padding}`
     )
 </script>

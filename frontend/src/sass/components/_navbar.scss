@@ -15,6 +15,7 @@
     background-color: $mobile-navbar-background;
     
     visibility: hidden;
+    overflow-y: auto;
     transition: translate $mobile-navbar-transition-duration ease-in-out;
     z-index: $z-index-10000;
 

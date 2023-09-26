@@ -13,6 +13,7 @@
         background-color: $table-bright-background;
     }
 
+    thead tr,
     tr:nth-child(2n) {
         background-color: $table-background;
     }

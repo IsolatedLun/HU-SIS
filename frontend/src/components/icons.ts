@@ -1,5 +1,6 @@
 export const ICON_CARET_LEFT = '\uf0d9';
 export const ICON_CARET_RIGHT = '\uf0da';
+export const ICON_CARET_DOWN = '\uf0d7';
 export const ICON_FAST_LEFT = '\uf049';
 export const ICON_FAST_RIGHT = '\uf050';
 
