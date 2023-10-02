@@ -6,6 +6,8 @@
 $option-anim-button-overlay: true;
 
 // Colors
+$clr-background: map-get(map-get($active-theme, 'background'), 400);
+
 $clr-primary-400: map-get(map-get($active-theme, 'primary'), 400);
 $clr-primary-500: map-get(map-get($active-theme, 'primary'), 500);
 
@@ -25,7 +27,7 @@ $clr-misc-error: map-get(map-get($active-theme, 'misc'), 'error');
 $global-primary-font: 'Ubuntu';
 $global-color-scheme: dark;
 
-$global-background: $clr-neutral-400;
+$global-background: $clr-background;
 $global-font-size: var(--fs-400);
 $global-font-family: $global-primary-font, system-ui;
 
@@ -99,9 +101,11 @@ $intro-img-filter: blur(4px) brightness(0.5);
 $intro-grid: 40% 60%;
 
 // Table
-$table-border: 1px solid $clr-neutral-600;
 $table-background: $clr-neutral-400;
 $table-bright-background: $clr-neutral-500;
+$table-box-shadow: 0 0 32px 2px rgba(0 0 0 / 0.4);
+
+$table-border: 1px solid $clr-neutral-700;
 
 // Uni Logo
 $uni-logo-small-size: 4rem;
@@ -110,6 +114,9 @@ $uni-logo-large-size: 9rem;
 // Dropdown
 $dropdown-background: $clr-neutral-300;
 $dropdown-list-border: 1px solid $clr-neutral-600;
+
+$dropdown-list-cursor-padding: -10px;
+$dropdown-list-distance: 3.25rem;
 
 // Card
 $card-border: 1px solid transparent;

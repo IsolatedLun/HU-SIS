@@ -6,9 +6,24 @@
         background-color: $dropdown-background;
         border-radius: $border-radius-bevelled;
         border: $dropdown-list-border;
+
+        z-index: $z-index-10000;
     }
 
-    &:is(:hover) .dropdown-list {
+
+    // If the dropdown is a bit far from the hoverable element,
+    // this avoids the dropdown list disappearing after the cursor moves
+    // out of the hoverable element
+    .dropdown-list::after {
+        content: '';
+        position: absolute;
+        inset: var(--_dropdown-list-cursor-padding, #{$dropdown-list-cursor-padding});
+        z-index: -1;
+    }
+
+    &:is(:hover) .dropdown-list,
+    .dropdown-list:hover {
         visibility: visible;
+        top: var(--_dropdown-list-distance, #{$dropdown-list-distance});
     }
 }

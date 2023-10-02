@@ -1,4 +1,7 @@
 $colors-dark: (
+	background: (
+		400: hsl(223, 12%, 10%),
+	),
 	primary: (
 		400: hsl(200, 60%, 50%),
 		500: hsl(200 60% 60%)
@@ -16,8 +19,6 @@ $colors-dark: (
 		error: hsl(376 80% 55%),
 	)
 );
-
-$colors-light: ();
 
 $active-theme: $colors-dark;
 

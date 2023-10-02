@@ -10,7 +10,7 @@
     )
 </script>
 
-<div class="table-container">
+<div class="[ table-container ] [ width-100 ]">
     <table class="{_class.toString()}">
         <slot name='thead' />
         <slot name='tbody' />

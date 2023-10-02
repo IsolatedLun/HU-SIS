@@ -38,6 +38,10 @@
 			grid-template-areas: var(--_mobile-grid-area, none) !important;
 		}
 
+		*.flex[data-flex-wrap='true'] {
+			flex-wrap: wrap;
+		}
+
 		*.flex:is([data-center-on-mobile='true'], .center-on-mobile) {
 			justify-content: center;
 			align-items: center;
