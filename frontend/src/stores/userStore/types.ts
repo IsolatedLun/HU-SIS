@@ -1,14 +1,16 @@
+import type { T_Days } from "../types";
+
 export interface Schedule {
     location: string;
     
-    days: ("M" | "T" | "W" | "TH" | "F")[];
+    days: T_Days[];
     time: [Date, Date]
     
     section: number;
     credits: number;
 }
 
-export interface User {
+export interface Store_User {
     id: number;
     name: string;
     schedule: Record<string, Schedule>;

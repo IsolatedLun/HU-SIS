@@ -10,6 +10,8 @@
 	onMount(() => {
 		id = crypto.randomUUID();
 		use(_this!);
+
+		_this!.type = type;
 	});
 
 	function handleInput(e: Event) {
@@ -26,12 +28,13 @@
 	export let variant: TextInputVariants = 'primary';
 	export let attachments: TextInputAttachments[] = [];
 	export let label: string;
-	export let placeholder: string;
+	export let placeholder: Some<string> = '';
 	export let showLabel = false;
 
 	export let id = '';
 	export let value = '';
 	export let endIcon: string | null = null;
+	export let type: string = 'text';
 
 	const dispatch = createEventDispatcher();
 
@@ -46,7 +49,7 @@
 		'pos-relative width-100',
 	);
 
-	export let _this: Some<HTMLElement> = null;
+	export let _this: Some<HTMLInputElement> = null;
 </script>
 
 <Flex
@@ -67,7 +70,6 @@
 			data-variant={variant}
 			data-attachments={attachments.join(',')}
 			{id}
-			type="text"
 			{placeholder}
 		/>
 

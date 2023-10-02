@@ -36,7 +36,7 @@
                 </tr>
             {/each}
         </tbody>
-
-        <TableInfo />
     </Table>
+
+    <TableInfo />
 </div>

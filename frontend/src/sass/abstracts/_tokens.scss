@@ -13,6 +13,7 @@ $clr-primary-500: map-get(map-get($active-theme, 'primary'), 500);
 
 $clr-neutral-300: map-get(map-get($active-theme, 'neutral'), 300);
 $clr-neutral-400: map-get(map-get($active-theme, 'neutral'), 400);
+$clr-neutral-450: map-get(map-get($active-theme, 'neutral'), 450);
 $clr-neutral-500: map-get(map-get($active-theme, 'neutral'), 500);
 $clr-neutral-600: map-get(map-get($active-theme, 'neutral'), 600);
 $clr-neutral-700: map-get(map-get($active-theme, 'neutral'), 700);
@@ -81,8 +82,8 @@ $buttom-anim-rotate-icon-duration: 1s;
 $button-anim-overlay-duration: 0.35s;
 
 // Input
-$input-primary: $clr-neutral-400;
-$input-primary-neutral: $clr-neutral-500;
+$input-primary: $clr-neutral-450;
+$input-primary-neutral: $clr-neutral-600;
 
 $input-padding: 0.475rem 0.8rem;
 

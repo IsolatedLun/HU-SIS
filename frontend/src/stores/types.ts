@@ -1,6 +1,2 @@
-export interface Store_User {
-    id: number;
-    firstName: string;
-    lastName: string;
-    major: string;
-}
+export type T_Days = ("M" | "T" | "W" | "TH" | "F");
+export const daysArray: T_Days[] = ["M", "T", "W", "TH", "F"];

@@ -13,9 +13,9 @@
 
 <nav class="[ primary-navbar ] [ margin-block-2 padding-inline-4 ]">
 	<Flex align="center">
-		<a href="./home">
+		<a href="/home">
 			<Flex align="center" justify="start" gap={2}>
-				<img class="uni-logo" src="./haigazian_logo.png" alt="Haigazial logo" />
+				<img class="uni-logo" src="/haigazian_logo.png" alt="Haigazial logo" />
 			</Flex>
 		</a>
 		<div data-desktop='true'>

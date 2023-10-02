@@ -1,10 +1,10 @@
 import { act, render, screen } from '@testing-library/svelte';
 import { test, expect } from 'vitest';
-import TextInput from './TextInput.svelte';
+import Input from './Input.svelte';
 import FileInput from './FileInput.svelte';
 
-test('Render a <TextInput />', () => {
-	render(TextInput, { props: 
+test('Render a <Input />', () => {
+	render(Input, { props: 
         { 
             label: "Email address", 
             showLabel: true, 
