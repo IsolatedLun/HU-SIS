@@ -1,6 +1,7 @@
 import { get, writable } from "svelte/store"
 import type { Schedule, Store_User } from "./types"
 import { calculateTotalCredits, calculateTotalHours } from "./funcs";
+import { convertTimeFormatToDate } from "../../utils/general";
 
 function createUserStore() {
     const store = writable<Store_User>({
@@ -44,27 +45,34 @@ userStore.setSchedule({
         credits: 3,
         days: ["T", "TH"],
         location: "MEH 502",
-        time: [new Date(), new Date()]
+        time: [convertTimeFormatToDate("13:00"), convertTimeFormatToDate("14:15")]
     },
     "Physics 102": {
         section: 8,
         credits: 4,
         days: ["W", "F"],
         location: "MEH 702",
-        time: [new Date(), new Date()]
+        time: [convertTimeFormatToDate("11:00"), convertTimeFormatToDate("12:00")]
+    },
+    "Physics 102L": {
+        section: 8,
+        credits: 4,
+        days: ["W", "F"],
+        location: "MEH 702",
+        time: [convertTimeFormatToDate("10:00"), convertTimeFormatToDate("11:00")]
     },
     "Biology 101": {
         section: 4,
         credits: 3,
         days: ["M", "W", "F"],
         location: "MEH 203",
-        time: [new Date(), new Date()]
+        time: [convertTimeFormatToDate("8:00"), convertTimeFormatToDate("8:50")]
     },
     "Math 101": {
         section: 6,
         credits: 3,
         days: ["T", "TH"],
         location: "COL 502",
-        time: [new Date(), new Date()]
+        time: [convertTimeFormatToDate("16:00"), convertTimeFormatToDate("17:15")]
     }
 })

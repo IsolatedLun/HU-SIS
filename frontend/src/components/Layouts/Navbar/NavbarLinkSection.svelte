@@ -28,9 +28,11 @@
                 {#each urlSection[1] as url}
                     <li class="width-100">
                         <Button 
+                            to={url[1]}
                             variant='neutral' 
                             attachments={['hologram', 'mix', 'border-none']}
-                            cls={cubeCss('', '', 'width-100 fs-350 fw-500')}>
+                            cls={cubeCss('', '', 'width-100 fs-350 fw-500 text-align-center')}
+                        >
                             {url[0]}
                         </Button>
                     </li>

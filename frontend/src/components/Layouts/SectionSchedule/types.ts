@@ -4,19 +4,17 @@ import type { Some } from "../../types";
 export interface T_SectionScheduleQuery {
     courseName: string;
     instructor: string;
-    faculty: string;
-    department: string;
     days: T_Days[];
     
-    time: [Some<Date>, Some<Date>]
+    time: [string | undefined, string | undefined]
 }
 
 export interface T_SectionCourse {
-    courseName: string;
+    course: string;
     title: string;
     language: string;
     instructor: string;
-    room: string;
+    room: string[];
     days: T_Days[];
     
     capacity: number;
@@ -24,5 +22,11 @@ export interface T_SectionCourse {
     credits: number;
     section: number;
 
-    time: [Date, Date]
+    time: string[]
+}
+
+export interface T_SectionCourseData {
+    courses: T_SectionCourse[],
+    course_names: string[],
+    instructors: string[],
 }

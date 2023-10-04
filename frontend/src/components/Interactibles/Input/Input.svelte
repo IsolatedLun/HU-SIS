@@ -35,6 +35,7 @@
 	export let value = '';
 	export let endIcon: string | null = null;
 	export let type: string = 'text';
+	export let list: string[] = [];
 
 	const dispatch = createEventDispatcher();
 
@@ -67,6 +68,7 @@
 			on:input={handleInput}
 			on:keydown={handleKeyDown}
 			class={_class.toString()}
+			list={id + '-datalist'}
 			data-variant={variant}
 			data-attachments={attachments.join(',')}
 			{id}
@@ -84,3 +86,9 @@
 		{/if}
 	</div>
 </Flex>
+
+<datalist id={id + '-datalist'}>
+	{#each list as value}
+		<option {value} />
+	{/each}
+</datalist>

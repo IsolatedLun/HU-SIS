@@ -33,7 +33,7 @@
 					{#each section[1] as [text, url]}
 						<li class="width-100">
 							<Button
-								cls={cubeCss('', '', 'width-100')}
+								cls={cubeCss('', '', 'text-align-center width-100')}
 								variant="neutral"
 								attachments={['mix']}
 								to={url}>{text}</Button

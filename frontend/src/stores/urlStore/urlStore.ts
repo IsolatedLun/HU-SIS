@@ -9,11 +9,11 @@ export const urlStore = writable<Store_Url>({
     ],
     "Registration": [
         ["Prerequisites", ""],
-        ["Register Courses", ""],
+        ["Register Courses", "/home/section"],
         ["Final Exam", ""]
     ],
     "Info": [
-        ["Schedule", ""],
+        ["Schedule", "/home"],
         ["Payment Slips", ""],
         ["Instructor Evaluation", ""],
         ["Grades", ""],
