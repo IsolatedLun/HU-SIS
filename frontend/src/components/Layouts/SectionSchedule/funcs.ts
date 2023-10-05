@@ -31,7 +31,24 @@ export function filterSchedule(courses: T_SectionCourse[], query: T_SectionSched
 
             return true;
         }
-    });
+    })
+
+    if(query.days.length > 0)
+        courses = courses.filter(x => {
+            for(let i = 0; i < query.days.length; i++) {
+                if(Array.isArray(x.days[0])) {
+                    for(let j = 0; j < query.days.length; j++) {
+                        if(x.days[j].includes(query.days[i]))
+                            return true;
+                    }
+                }
+                
+                if(x.days.includes(query.days[i]))
+                    return true;
+            }
+
+            return false;
+        })
 
     return courses;
 }

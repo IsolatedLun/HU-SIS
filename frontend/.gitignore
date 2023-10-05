@@ -12,5 +12,3 @@ vite.config.ts.timestamp-*
 sassy.css
 sassy.css.map
 posty.css.map
-
-schedule.json

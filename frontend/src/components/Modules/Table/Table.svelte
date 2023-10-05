@@ -6,7 +6,7 @@
     const _class = cls.extend(
         'table',
         '',
-        'width-100 overflow-hidden text-align-center border-radius-bevelled'
+        'width-100 text-align-center border-radius-bevelled'
     )
 </script>
 

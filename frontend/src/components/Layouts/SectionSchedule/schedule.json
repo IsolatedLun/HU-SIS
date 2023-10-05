@@ -1,0 +1,6483 @@
+{
+   "courses": [
+      {
+         "course": "ACC 0211",
+         "title": "Fundamentals of Accounting I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "28/31",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "25/30",
+         "instructor": "AMIR HAMADEH",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "ACC 0212",
+         "title": "Fundamentals of Accounting II",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/30",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "ACC 0213",
+         "title": "Cost and Managerial Accounting",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "29/30",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "M",
+            "F"
+         ],
+         "time": [
+            "11:20 - 12:35"
+         ]
+      },
+      {
+         "course": "ACC 0215",
+         "title": "Auditing",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/30",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ACC 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/35",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "ADC 0240",
+         "title": "Introduction to Advertising",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/30",
+         "instructor": "MAYA BOU NASSIF",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ADC 0241",
+         "title": "Marketing Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/30",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "ADC 0244",
+         "title": "Marketing E-Commerce",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "13/30",
+         "instructor": "MAYA HASSAN",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "ADC 0246",
+         "title": "Marketing Research",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/30",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ADC 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/35",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "ARA 0201",
+         "title": "Studies in Arabic Language and Literature",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Arabic",
+         "capacity": "20/26",
+         "instructor": "ILHAM KASSAS",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "ARA 0259",
+         "title": "Arab-Armenian Relations from the 7th c. to the 10th c.",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Arabic",
+         "capacity": "27/29",
+         "instructor": "JEAN SALMANIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "ARM 0203",
+         "title": "Advanced Modern Armenian - I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Armenian",
+         "capacity": "7/20",
+         "instructor": "ARMEN URNESHLIAN",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "ARM 0212",
+         "title": "History of the Armenian People from 11th C. to 1914",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Armenian",
+         "capacity": "23/25",
+         "instructor": "VATCHE TAZIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "ARM 0269",
+         "title": "Arab-Armenian Relations from the 7th c. to the 10th c. (in Arabic)",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Arabic",
+         "capacity": "6/7",
+         "instructor": "JEAN SALMANIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "ARM 0270E",
+         "title": "Armenians in Lebanon",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/27",
+         "instructor": "ANTRANIG DAKESSIAN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "BAD 0200",
+         "title": "Community Service",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/30",
+         "instructor": "VERA KARAGUEZIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BAD 0231",
+         "title": "Business Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "29/30",
+         "instructor": "WISSAM HADDAD",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "BAD 0255",
+         "title": "Operations Research",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/30",
+         "instructor": "JAMAL SAKAYA",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "16:00 - 16:50"
+         ]
+      },
+      {
+         "course": "BAD 0271",
+         "title": "Managerial Economics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/30",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": "BAD 0281",
+         "title": "Quantitative Methods",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/30",
+         "instructor": "JAMAL SAKAYA",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "15:00 - 15:50"
+         ]
+      },
+      {
+         "course": "BAD 0295F",
+         "title": "Senior Seminar: Capstone Course",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "12/30",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "BAD 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/35",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BAD 0301",
+         "title": "Research Methodology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0308",
+         "title": "International Finance",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "ANI TORTIAN",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "18:00 - 20:00"
+         ]
+      },
+      {
+         "course": "BAD 0309",
+         "title": "Financial Options and Futures",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/30",
+         "instructor": "MOHAMAD ABOU EL HASSAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0315",
+         "title": "Economic Analysis of the Firm",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/30",
+         "instructor": "GARABED BOGHOSSIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0316",
+         "title": "Statistical Methods for Business Decisions",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/30",
+         "instructor": "JAMAL SAKAYA",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0327",
+         "title": "Advanced Accounting",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/30",
+         "instructor": "AMIR HAMADEH",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0354",
+         "title": "Leadership",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/30",
+         "instructor": "RITA EL MEOUCHY",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0355",
+         "title": "Creative and Innovative Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/30",
+         "instructor": "RITA EL MEOUCHY",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "18:00 - 20:30"
+         ]
+      },
+      {
+         "course": "BAD 0399A",
+         "title": "Thesis",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BAD 0399B",
+         "title": "Thesis Continued",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BAD 0399G",
+         "title": "Thesis Continued",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BIO 0101",
+         "title": "General Introductory Biology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "15/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": "BIO 0200",
+         "title": "Human Beings in Their Environment",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "11/25",
+         "instructor": "ROUA DAOU",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "M",
+            "F"
+         ],
+         "time": [
+            "11:45 - 13:00"
+         ]
+      },
+      {
+         "course": "BIO 0201",
+         "title": "General Biology I",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/27",
+         "instructor": "SAMI NASR",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "BIO 0201L",
+         "title": "General Biology I Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "35/50",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "12:00 - 12:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "8/9",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "5/9",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "5/9",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "4",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "9/9",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "5",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "8/9",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BIO 0207",
+         "title": "Genetics",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "BIO 0207L",
+         "title": "Genetics Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "12:00 - 12:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "8/8",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "8/8",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BIO 0220",
+         "title": "Immunology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/25",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "BIO 0221",
+         "title": "Parasitology",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "BIO 0221L",
+         "title": "Parasitology Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "12:00 - 12:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "6/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "12:00 - 14:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "1/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "BIO 0225",
+         "title": "Human Biology: The Living Body",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/25",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "BIO 0226",
+         "title": "Molecular & Diagnostic Biology",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "BIO 0226L",
+         "title": "Molecular Diagnostic Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "14:20 - 15:10"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "5/8",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "1/8",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "BIO 0235",
+         "title": "Food & Nutrition Awareness",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/25",
+         "instructor": "SIMA HAMADEH",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "BIO 0292A",
+         "title": "Selected Topics: Clinical Biochemistry",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "BIO 0293",
+         "title": "Biology Seminar",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "CHY 0101",
+         "title": "General Chemistry I",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "RANIA SHEHADEH-MANSOUR",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "CHY 0101L",
+         "title": "General Chemistry I Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "RANIA SHEHADEH-MANSOUR",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "12:00 - 12:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "9/9",
+         "instructor": "RANIA SHEHADEH-MANSOUR",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "CHY 0200",
+         "title": "Basic Chemistry",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "HASSIB AUDI",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "CHY 0201",
+         "title": "Chemical Principles",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "26/35",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "CHY 0208",
+         "title": "Brief Survey in Organic Chemistry",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/25",
+         "instructor": "RANIA SHEHADEH-MANSOUR",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "CHY 0211",
+         "title": "Organic Chemistry I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "HASSIB AUDI",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "CHY 0212",
+         "title": "Organic Chemistry II",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/1",
+         "instructor": "HASSIB AUDI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "CSC 0200",
+         "title": "Introduction to Computing",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/25",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "15:15 - 16:05"
+         ]
+      },
+      {
+         "course": "CSC 0201",
+         "title": "Introduction to Computing & Programming",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "25/27",
+         "instructor": "MEGHRY TCHANGOULIAN",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/28",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "CSC 0202",
+         "title": "Computer Programming",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "20/26",
+         "instructor": "ALI MOUKALLID",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/22",
+         "instructor": "ALI MOUKALLID",
+         "room": [
+            "MEH-402"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "CSC 0204",
+         "title": "Advanced Computer Programming & Data Structures",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "MEGHRY TCHANGOULIAN",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": "CSC 0205",
+         "title": "Computing Concepts for Business Analytics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "20/25",
+         "instructor": "LENA KARAGUEZIAN",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/25",
+         "instructor": "ALI MOUKALLID",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "CSC 0233",
+         "title": "Logic Design of Digital Systems",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "CSC 0233L",
+         "title": "Logic Design of Digital Systems Lab.",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "16:15 - 17:05"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "17:15 - 19:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "SHANT ESTEPAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "CSC 0236",
+         "title": "Design and Analysis of Algorithms",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/25",
+         "instructor": "GEORGES HATEM",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "17:00 - 19:30"
+         ]
+      },
+      {
+         "course": "CSC 0251",
+         "title": "Numerical Analysis",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "NAZIM NOUIEHED",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "CSC 0252",
+         "title": "Introduction to Data Science",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/25",
+         "instructor": "MELISSA LOUAK",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "CSC 0263",
+         "title": "Software Engineering",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "ALI MOUKALLID",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "CSC 0271",
+         "title": "Introduction to Operating Systems",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "ALI MOUKALLID",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "CSC 0276",
+         "title": "Network Security",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "AYMAN TAJEDDINE",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "17:00 - 19:30"
+         ]
+      },
+      {
+         "course": "CSC 0299",
+         "title": "Capstone Project",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "AYMAN TAJEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "ECE 0201",
+         "title": "Contemporary Trends in ECE",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "SHAGHIG HUDAVERDIAN",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "ECE 0206",
+         "title": "Children's Literature",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "SHEREEN KREIDIEH",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "ECE 0208",
+         "title": "Planning & Administration of ECE Programs",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "SHAGHIG HUDAVERDIAN",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ECE 0211",
+         "title": "Curriculum Planning in ECE",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "SHAGHIG HUDAVERDIAN",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "ECE 0235",
+         "title": "Teaching Sciences and Math in ECE",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "SHAGHIG HUDAVERDIAN",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ECO 0101",
+         "title": "Introduction to Economics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/30",
+         "instructor": "MIREILLE BOGHARIAN",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "ECO 0201",
+         "title": "Microeconomic Principles",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "26/30",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/30",
+         "instructor": "OUSAMA RAMADAN",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "ECO 0202",
+         "title": "Macroeconomic  Principles",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/31",
+         "instructor": "ANI TORTIAN",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "ECO 0216",
+         "title": "Intermediate Macroeconomics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/30",
+         "instructor": "OUSAMA RAMADAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "ECO 0217",
+         "title": "Intermediate Microeconomics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/30",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": "ECO 0231",
+         "title": "Economic Statistics I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "11/30",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ECO 0232",
+         "title": "Economic Statistics II",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/30",
+         "instructor": "NAJOIE NASR",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "ECO 0299",
+         "title": "Economics Internship Program",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/35",
+         "instructor": "ANI TORTIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "EDU 0100M",
+         "title": "Mathematical Skills",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "TALA SAMMAN KAAKAJI",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "EDU 0100S",
+         "title": "Scientific Inquiry Skills",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/25",
+         "instructor": "NADEEN FAYAD",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "11:30 - 14:00"
+         ]
+      },
+      {
+         "course": "EDU 0201",
+         "title": "Fundamentals of Education",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/28",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "EDU 0202",
+         "title": "Action Research in Education and Social Work",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "EDU 0206",
+         "title": "Children's Literature",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/25",
+         "instructor": "SHEREEN KREIDIEH",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "EDU 0211A",
+         "title": "Teaching of English as a Second or Foreign Language",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "EDU 0211C",
+         "title": "Teaching Social Sciences",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "EDU 0218",
+         "title": "Observation and Internship",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "11/25",
+         "instructor": "SHAGHIG HUDAVERDIAN",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "16:30 - 17:20"
+         ]
+      },
+      {
+         "course": "EDU 0221",
+         "title": "Classroom Dynamics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "15:00 - 15:50"
+         ]
+      },
+      {
+         "course": "EDU 0223",
+         "title": "Evaluation and Testing",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/1",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "EDU 0229",
+         "title": "Special Education",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/25",
+         "instructor": "ROLA CHUKRI",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "EDU 0232",
+         "title": "Instructional Media & Techniques",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "TALA SAMMAN KAAKAJI",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "EDU 0241",
+         "title": "Introduction to Educational Administration",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "EDU 0247",
+         "title": "The School & the Social Order",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "14:00 - 14:50"
+         ]
+      },
+      {
+         "course": "EDU 0321",
+         "title": "Guidance and School Counseling for Children & Youth",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/25",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "EDU 0331",
+         "title": "Working with Families with Special Needs",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/25",
+         "instructor": "SHAZA ISMAIL",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "14:30 - 17:00"
+         ]
+      },
+      {
+         "course": "EDU 0399A",
+         "title": "Thesis",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/15",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "EDU 0399B",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "EDU 0399C",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "EDU 0399D",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "ENG 0000",
+         "title": "Intensive English Level I",
+         "credits": "0",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/23",
+         "instructor": "SUHA HADDAD NAIMY",
+         "room": [
+            "MEH-206",
+            "COL-C507",
+            "COL-C701",
+            "COL-C503",
+            "COL-C301",
+            "COL-C301"
+         ],
+         "days": [
+            [
+               "M",
+               "W"
+            ],
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "10:00 - 10:50",
+            "09:15 - 10:30",
+            "10:45 - 12:00",
+            "07:45 - 09:00",
+            "09:00 - 09:50",
+            "11:00 - 12:15"
+         ]
+      },
+      {
+         "course": "ENG 0001",
+         "title": "Intensive English Level II",
+         "credits": "0",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/25",
+         "instructor": "LYNN EL AMINE",
+         "room": [
+            "MEH-303",
+            "COL-C407",
+            "COL-C507"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "10:00 - 10:50",
+            "11:00 - 12:15",
+            "14:00 - 15:15"
+         ]
+      },
+      {
+         "course": "ENG 0101",
+         "title": "English Communications Skills",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "20/23",
+         "instructor": "WALID RIHANE",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "F"
+            ],
+            [
+               "F"
+            ]
+         ],
+         "time": [
+            "09:15 - 10:30",
+            "09:00 - 09:50",
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/26",
+         "instructor": "ISRAA ABDULHAK",
+         "room": [
+            "COL-C503",
+            "COL-C301"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "13:00 - 14:15",
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "ENG 0102",
+         "title": "English Communications Skills",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/22",
+         "instructor": "SUHA HADDAD NAIMY",
+         "room": [
+            "MEH-206",
+            "MEH-203"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "14:30 - 15:45",
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/22",
+         "instructor": "ISRAA ABDULHAK",
+         "room": [
+            "COL-C701",
+            "COL-C301"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "09:15 - 10:30",
+            "08:00 - 08:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "22/23",
+         "instructor": "LYNN EL AMINE",
+         "room": [
+            "COL-C301",
+            "COL-C303"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "13:00 - 14:15",
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "4",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "12/20",
+         "instructor": "LYNN EL AMINE",
+         "room": [
+            "MEH-306",
+            "COL-C503"
+         ],
+         "days": [
+            [
+               "T",
+               "TH"
+            ],
+            [
+               "M",
+               "W"
+            ]
+         ],
+         "time": [
+            "14:30 - 15:45",
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "ENG 0201",
+         "title": "Advanced English Communication Skills",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/21",
+         "instructor": "ROLA OTHMAN",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "20/20",
+         "instructor": "ILSA AWWAD",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/22",
+         "instructor": "ANITA MOUTCHOYAN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "4",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/22",
+         "instructor": "SHOGHIG KALOUSSIAN",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "5",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/22",
+         "instructor": "SHOGHIG KALOUSSIAN",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "6",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/20",
+         "instructor": "ILSA AWWAD",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ENG 0202",
+         "title": "Advanced English Communication Skills",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/20",
+         "instructor": "ROLA OTHMAN",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/20",
+         "instructor": "ILSA AWWAD",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "21/20",
+         "instructor": "SHOGHIG KALOUSSIAN",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "4",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "16/20",
+         "instructor": "SHOGHIG KALOUSSIAN",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ENG 0204",
+         "title": "Advanced English Composition",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/20",
+         "instructor": "ANITA MOUTCHOYAN",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "ENG 0205A",
+         "title": "Introduction to English Literature",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/20",
+         "instructor": "ZIAD SUIDAN",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "ENG 0207",
+         "title": "Survey of English Literature",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/20",
+         "instructor": "ZIAD SUIDAN",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "ENG 0226",
+         "title": "Introduction to Linguistics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/20",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ENG 0227",
+         "title": "History of the English Language",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/20",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "11:00 - 12:15"
+         ]
+      },
+      {
+         "course": "ENG 0238",
+         "title": "Discourse Analysis",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/20",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "ENG 0248",
+         "title": "Business English",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "22/22",
+         "instructor": "ANITA MOUTCHOYAN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/20",
+         "instructor": "SHOGHIG KALOUSSIAN",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "ENG 0292K",
+         "title": "Selected Topics: Language and Power",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "SUHA SAFIYIDDEEN",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "ENG 0292Q",
+         "title": "Speical Topics: Comics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "ZIAD SUIDAN",
+         "room": [
+            "COL-C701"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "FIN 0220",
+         "title": "Financial Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/30",
+         "instructor": "ANI TORTIAN",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "FIN 0221",
+         "title": "Financial Markets and Institutions",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "13/30",
+         "instructor": "GARABED BOGHOSSIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "FIN 0227",
+         "title": "Futures, Options and Other Derivatives",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/30",
+         "instructor": "GARABED BOGHOSSIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "FIN 0231",
+         "title": "Investment Analysis and Portfolio Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "ANI TORTIAN",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "FIN 0233",
+         "title": "Commercial Banking",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "GARABED BOGHOSSIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "FIN 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/30",
+         "instructor": "GARABED BOGHOSSIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "GEO 0204",
+         "title": "Geology and Natural Disasters",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "12/25",
+         "instructor": "CHARLES TABET",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "GMAT",
+         "title": "GMAT",
+         "credits": "0",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/30",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "HIS 0102",
+         "title": "Europe & the Middle East in the Modern & Contemporary Period",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "VERA CHOULHADJIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "HOM 0200",
+         "title": "The Lodging and Food Service Industry",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/30",
+         "instructor": "JOSEPH MOUDABBER",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "W",
+            "F"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "HOM 0241",
+         "title": "Food & Beverage Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/30",
+         "instructor": "JOSEPH MOUDABBER",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "W",
+            "F"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "HOM 0250",
+         "title": "Supervision in the Hospitality Industry",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/30",
+         "instructor": "CECILIA MOUDABER",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "HOM 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/35",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "HOM 0357",
+         "title": "Managing Hospitality Human Resources",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/30",
+         "instructor": "CECILIA MOUDABER",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "HOM 0469",
+         "title": "Culinary Theory and Practice",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/5",
+         "instructor": "JOSEPH MOUDABBER",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "HOM 0498",
+         "title": "Hospitality Training I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/35",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "HOM 0499",
+         "title": "Hospitality Training II",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/35",
+         "instructor": "FADI ASRAWI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "HRM 0200",
+         "title": "Human Resource Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/30",
+         "instructor": "NANCY AOUN",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "HRM 0211",
+         "title": "Recruitment, Selection and Retention",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/30",
+         "instructor": "RITA EL MEOUCHY",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:30 - 17:45"
+         ]
+      },
+      {
+         "course": "HRM 0223",
+         "title": "Negotiation",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/30",
+         "instructor": "GHASSAN CONSTANTINE",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "09:50 - 11:05"
+         ]
+      },
+      {
+         "course": "HRM 0229",
+         "title": "Industrial & Organizational Psychology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/30",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "HRM 0238",
+         "title": "Organizational Behavior",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/30",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "HRM 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/35",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "IST 0203",
+         "title": "World Culture: 3000 BC - 1 Ad",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "25/25",
+         "instructor": "BERGE TRABOULSI",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/26",
+         "instructor": "ARDA EKMEKJI",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/26",
+         "instructor": "ZIAD SUIDAN",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "IST 0204",
+         "title": "World Culture: Christianity - Romantic Age",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/25",
+         "instructor": "BERGE TRABOULSI",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "20/25",
+         "instructor": "ARDA EKMEKJI",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "10:00 - 11:15"
+         ]
+      },
+      {
+         "course": "IST 0205",
+         "title": "World Culture: 20th Century",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "27/28",
+         "instructor": "SUHA HADDAD NAIMY",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/25",
+         "instructor": "ANITA MOUTCHOYAN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "IST 0226",
+         "title": "Introduction to Italian",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "Italian",
+         "capacity": "24/25",
+         "instructor": "PAMELA COLANTONIO",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "LST 0261",
+         "title": "Business Law",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/30",
+         "instructor": "KHALED ABDALLAH",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "LST 0267",
+         "title": "Labor Contract and Social Security",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/30",
+         "instructor": "MOHAMAD ABDALLAH",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:30 - 08:45"
+         ]
+      },
+      {
+         "course": "MAT 0100",
+         "title": "Introductory Statistics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/25",
+         "instructor": "HAGOP KARAKAZIAN",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "19/25",
+         "instructor": "NJTEH MKHSIAN",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "07:40 - 08:55"
+         ]
+      },
+      {
+         "course": "MAT 0101",
+         "title": "Calculus and Analytic Geometry I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "HAGOP KARAKAZIAN",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "MAT 0102",
+         "title": "Calculus & Analytic Geometry II",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "NJTEH MKHSIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "MAT 0104",
+         "title": "Mathematics for Business",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "NAZIM NOUIEHED",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "MAT 0201",
+         "title": "Calculus and Analytic Geometry III",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "22/25",
+         "instructor": "HAGOP KARAKAZIAN",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "NJTEH MKHSIAN",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "MAT 0204",
+         "title": "Math for Business & Economic Analysis",
+         "credits": "3",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "NAZIM NOUIEHED",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "MAT 0233",
+         "title": "Probability & Statistics for the Sciences",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "NAZIM NOUIEHED",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "W",
+            "F"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "MIS 0272",
+         "title": "Management Information Systems",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "11/30",
+         "instructor": "LENA KARAGUEZIAN",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "MIS 0274",
+         "title": "Relational Database Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "LENA KARAGUEZIAN",
+         "room": [
+            "MEH-009"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "MIS 0276",
+         "title": "E-Commerce",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/30",
+         "instructor": "NAJIB ABDELNOUR",
+         "room": [
+            "MEH-402"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "09:00 - 10:15"
+         ]
+      },
+      {
+         "course": "MIS 0284",
+         "title": "Networking Essentials",
+         "credits": "2",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/30",
+         "instructor": "ABDO CHALHOUB",
+         "room": [
+            "MEH-402"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "17:00 - 18:15"
+         ]
+      },
+      {
+         "course": "MIS 0284L",
+         "title": "Networking Essentials - Lab",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/8",
+         "instructor": "ABDO CHALHOUB",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MIS 0295",
+         "title": "Special Topics in MIS: Data Warehousing & Data Mining",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/30",
+         "instructor": "LENA KARAGUEZIAN",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "MIS 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/35",
+         "instructor": "LENA KARAGUEZIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0202",
+         "title": "Clinical Biochemistry",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "07:45 - 08:55"
+         ]
+      },
+      {
+         "course": "MLS 0205",
+         "title": "Introductory Haematology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "SAMI NASR",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "MLS 0205L",
+         "title": "Introductory Haematology Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "6/8",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "3/8",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0206",
+         "title": "Clinical Haematology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "SAMI NASR",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "MLS 0207",
+         "title": "Immunology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "NADIM HASSOUN",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": "MLS 0219",
+         "title": "General Bacteriology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "MLS 0219L",
+         "title": "General Bacteriology Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "5/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "--TBA"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "11:00 - 13:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "4/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "MLS 0221",
+         "title": "Medical Parasitology",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "MLS 0221L",
+         "title": "Parasitology Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "RULA HALABY",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "12:00 - 12:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "5/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "--TBA"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "12:00 - 14:00"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "0/8",
+         "instructor": "RULA HALABY",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "MLS 0225",
+         "title": "Epidemiology and Biostatistics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "12/25",
+         "instructor": "NADER NASSIF",
+         "room": [
+            "COL-C507"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "MLS 0226",
+         "title": "Molecular Diagnostic",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "MLS 0226L",
+         "title": "Molecular Diagnostic Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "14:20 - 15:10"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "2/8",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "0/8",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0230",
+         "title": "Clinical Chemistry: Special Topics + Practicum",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "KHALIL ABDO",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0230L",
+         "title": "Diagnostic Clinical Chemistry Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "3/8",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0240",
+         "title": "Diagnostic Clinical Haematology",
+         "credits": "2",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/8",
+         "instructor": "KHALIL ABDO",
+         "room": [
+            "COL-C401"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "3/8",
+         "instructor": "KHALIL ABDO",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0290",
+         "title": "Seminar",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "NOHA IBRAHIM",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "MLS 0299",
+         "title": "Hospital Training",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/30",
+         "instructor": "KHALIL ABDO",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/30",
+         "instructor": "ARIN MELKONIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "MLS 0299C",
+         "title": "Hospital Training Continued",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/30",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/30",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "NSD 0202",
+         "title": "Assessment of Nutritional Status",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "MARIE ROSE SAMAHA",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:10 - 10:00"
+         ]
+      },
+      {
+         "course": "NSD 0221",
+         "title": "Food Analysis",
+         "credits": "3",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "CHRISTELLE SALAMEH",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "09:15 - 10:05"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "2/8",
+         "instructor": "CHRISTELLE SALAMEH",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "13:00 - 15:00"
+         ]
+      },
+      {
+         "course": "NSD 0225",
+         "title": "Human Nutrition",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "SIMA HAMADEH",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "NSD 0230",
+         "title": "Food & Beverage Management",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "SIMA HAMADEH",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "NSD 0260",
+         "title": "Food Processing",
+         "credits": "3",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "CHRISTELLE SALAMEH",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "12:15 - 14:05"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "3/8",
+         "instructor": "CHRISTELLE SALAMEH",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "14:15 - 16:15"
+         ]
+      },
+      {
+         "course": "NSD 0270",
+         "title": "Therapeutic Nutrition I",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "MARIE ROSE SAMAHA",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "NSD 0290",
+         "title": "Nutrition & food Sciences Seminar",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/25",
+         "instructor": "SIMA HAMADEH",
+         "room": [
+            "MEH-708"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "OR 0099",
+         "title": "Orientation",
+         "credits": "0",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "128/250",
+         "instructor": "BERGE TRABOULSI",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PHY 0102",
+         "title": "Introductory Physics II",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 12:15"
+         ]
+      },
+      {
+         "course": "PHY 0102L",
+         "title": "Introductory Physics II Lab",
+         "credits": "0",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "10/12",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "TBA-TBA"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "10:00 - 12:00"
+         ]
+      },
+      {
+         "course": "PHY 0204",
+         "title": "Classical Physics for Life Sciences",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "13/25",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            [
+               "F"
+            ],
+            [
+               "W"
+            ]
+         ],
+         "time": [
+            "12:00 - 13:15",
+            "12:55 - 14:10"
+         ]
+      },
+      {
+         "course": "PHY 0206",
+         "title": "Classical Physics Lab.",
+         "credits": "1",
+         "section": "15",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "13/25",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "15:20 - 16:10"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "1",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "11/12",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "MEH-702"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "13:30 - 15:30"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lab",
+         "language": "English",
+         "capacity": "2/12",
+         "instructor": "RACHID HAMDAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSC 0201",
+         "title": "Introduction to Political Science",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/25",
+         "instructor": "MARION ALEXANDRA ADAMS",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "PSC 0202",
+         "title": "Research Methods in Political Science",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "MARION ALEXANDRA ADAMS",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "PSC 0211",
+         "title": "History of Ancient and Medieval Western Political Thought",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "JOSEPH AL-AGHA",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "PSC 0212",
+         "title": "History of Western Political Thought - Modern",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "JOSEPH AL-AGHA",
+         "room": [
+            "COL-C301"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "13:00 - 13:50"
+         ]
+      },
+      {
+         "course": "PSC 0229",
+         "title": "International Organizations",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "MARION ALEXANDRA ADAMS",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "PSC 0233",
+         "title": "International Relations of the Middle East",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "VERA CHOULHADJIAN",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "PSC 0235",
+         "title": "Government & Politics in Lebanon",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "7/25",
+         "instructor": "VERA CHOULHADJIAN",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "PSC 0238",
+         "title": "Islam and Politics",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "JOSEPH AL-AGHA",
+         "room": [
+            "MEH-602"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "PSC 0295",
+         "title": "Senior Seminar",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "MARION ALEXANDRA ADAMS",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "PSC 0299",
+         "title": "Internship",
+         "credits": "1",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/35",
+         "instructor": "MARION ALEXANDRA ADAMS",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0101",
+         "title": "Psychology of Everyday Life",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "13/25",
+         "instructor": "MIRJAM POLAK",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "PSY 0201",
+         "title": "General Psychology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/26",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "COL-C303"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "27/29",
+         "instructor": "LEA MIA ASFOUR",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "PSY 0202",
+         "title": "Basic Statistics for Social & Behavioral Sciences",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "SERENE JORDI",
+         "room": [
+            "MEH-408"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "PSY 0204",
+         "title": "Psychology of Personality",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "32/33",
+         "instructor": "DAYANA BROME",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0212",
+         "title": "Biological Psychology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "LEA MERHI",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "PSY 0218",
+         "title": "Abnormal Psychology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "31/33",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "PSY 0222",
+         "title": "Psychology of Adolescence",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "32/31",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "23/26",
+         "instructor": "LEA MIA ASFOUR",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "PSY 0228",
+         "title": "Experimental Psychology",
+         "credits": "4",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "22/25",
+         "instructor": "SERENE JORDI",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 16:20"
+         ]
+      },
+      {
+         "course": "PSY 0230",
+         "title": "Psychology of Perception",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "27/27",
+         "instructor": "LEA MERHI",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "PSY 0237",
+         "title": "History and Systems",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "PSY 0301",
+         "title": "Research Methods in Psychology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "DAYANA BROME",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "F"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0321",
+         "title": "Guidance & School Counseling for Children & Youth",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0322",
+         "title": "Theories & Procedures of Pychological Counseling",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "18/25",
+         "instructor": "WISSAM KHEIR",
+         "room": [
+            "MEH-303"
+         ],
+         "days": [
+            "W"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0324F",
+         "title": "Special Topics: Introduction to Interpersonal Psychotherapy",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "27/30",
+         "instructor": "WISSAM KHEIR",
+         "room": [
+            "COL-C501"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0329",
+         "title": "Group Dynamics: Theory and Practice",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/25",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "MEH-307"
+         ],
+         "days": [
+            "T"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0344A",
+         "title": "Training in Therapy I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "WISSAM KHEIR",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "PSY 0399A",
+         "title": "Thesis",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0399B",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/15",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "WISSAM KHEIR",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "4",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0399C",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/15",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/15",
+         "instructor": "LUCY TAVITIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0399D",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "HANINE HOUT-GHARZEDDINE",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "2",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/15",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": ".",
+         "title": ".",
+         "credits": ".",
+         "section": "3",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0399E",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "2/15",
+         "instructor": "KHOLOUD BARAKAT",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "PSY 0399F",
+         "title": "Thesis Continued",
+         "credits": "6",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "0/15",
+         "instructor": "NOT ASSIGNED",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "REL 0215",
+         "title": "Old Testament Survey",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "33/33",
+         "instructor": "WILHELMUS VAN SAANE",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "REL 0218",
+         "title": "World Religions: West",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "BERGE TRABOULSI",
+         "room": [
+            "COL-C407"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "09:00 - 09:50"
+         ]
+      },
+      {
+         "course": "SOC 0201",
+         "title": "Introduction to Sociology",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/25",
+         "instructor": "RAED JREIDINI",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "13:00 - 14:15"
+         ]
+      },
+      {
+         "course": "SOC 0211",
+         "title": "The Family",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "17/25",
+         "instructor": "RAYAN JABER",
+         "room": [
+            "MEH-206"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "07:45 - 09:00"
+         ]
+      },
+      {
+         "course": "SOC 0241",
+         "title": "Sociology of the Arab World",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "8/25",
+         "instructor": "RAED JREIDINI",
+         "room": [
+            "MEH-502"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "SOW 0201",
+         "title": "Introduction to the Field of Social Work",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "32/35",
+         "instructor": "BEDROS KAZAZIAN",
+         "room": [
+            "A B-MC"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "09:15 - 10:30"
+         ]
+      },
+      {
+         "course": "SOW 0202",
+         "title": "Action Research in Education and Social Work",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "3/25",
+         "instructor": "NIZAR MEHTAR",
+         "room": [
+            "COL-C403"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "11:00 - 11:50"
+         ]
+      },
+      {
+         "course": "SOW 0211",
+         "title": "Family and Child Welfare",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "25/26",
+         "instructor": "SHEREEN KREIDIEH",
+         "room": [
+            "COL-C503"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "10:45 - 12:00"
+         ]
+      },
+      {
+         "course": "SOW 0221",
+         "title": "Social Intervention with Individuals & Families",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "9/25",
+         "instructor": "RITA MERHEJ",
+         "room": [
+            "HER-Conte"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "SOW 0223",
+         "title": "Working with Communities",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "1/1",
+         "instructor": "SHEREEN KREIDIEH",
+         "room": [
+            "."
+         ],
+         "days": [
+            "."
+         ],
+         "time": [
+            "TBA"
+         ]
+      },
+      {
+         "course": "SOW 0231",
+         "title": "Field Training I",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "RAQUELLE KEJEJIAN (CHIDIAC)",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M"
+         ],
+         "time": [
+            "16:00 - 16:50"
+         ]
+      },
+      {
+         "course": "SOW 0242",
+         "title": "Senior Seminar",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "BEDROS KAZAZIAN",
+         "room": [
+            "MEH-203"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "16:00 - 18:30"
+         ]
+      },
+      {
+         "course": "SPE 0201",
+         "title": "Special Education",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "4/25",
+         "instructor": "ROLA CHUKRI",
+         "room": [
+            "MEH-306"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "SPE 0205",
+         "title": "Building Child, Family and Community Relationships",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "5/25",
+         "instructor": "ROLA CHUKRI",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "11:00 - 12:15"
+         ]
+      },
+      {
+         "course": "SPE 0219",
+         "title": "Observation & Internship in Special Education",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "10/25",
+         "instructor": "ROLA CHUKRI",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "TH"
+         ],
+         "time": [
+            "16:00 - 16:50"
+         ]
+      },
+      {
+         "course": "SPE 0222",
+         "title": "Learning Disabilities",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "14/25",
+         "instructor": "SHAZA ISMAIL",
+         "room": [
+            "MEH-207"
+         ],
+         "days": [
+            "M",
+            "W"
+         ],
+         "time": [
+            "16:00 - 17:15"
+         ]
+      },
+      {
+         "course": "SPE 0230",
+         "title": "Assessment in Special Education",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "6/25",
+         "instructor": "ROLA CHUKRI",
+         "room": [
+            "HER-308"
+         ],
+         "days": [
+            "T",
+            "TH"
+         ],
+         "time": [
+            "14:30 - 15:45"
+         ]
+      },
+      {
+         "course": "WRN 0200",
+         "title": "Work Ready Now",
+         "credits": "3",
+         "section": "1",
+         "type": "Lec",
+         "language": "English",
+         "capacity": "24/32",
+         "instructor": "CHRISTINE ARZOUMANIAN",
+         "room": [
+            "COL-C307"
+         ],
+         "days": [
+            "M",
+            "W",
+            "F"
+         ],
+         "time": [
+            "10:00 - 10:50"
+         ]
+      }
+   ],
+   "instructors": [
+      "ABDO CHALHOUB",
+      "ALI MOUKALLID",
+      "AMIR HAMADEH",
+      "ANI TORTIAN",
+      "ANITA MOUTCHOYAN",
+      "ANTRANIG DAKESSIAN",
+      "ARDA EKMEKJI",
+      "ARIN MELKONIAN",
+      "ARMEN URNESHLIAN",
+      "AYMAN TAJEDDINE",
+      "BEDROS KAZAZIAN",
+      "BERGE TRABOULSI",
+      "CECILIA MOUDABER",
+      "CHARLES TABET",
+      "CHRISTELLE SALAMEH",
+      "CHRISTINE ARZOUMANIAN",
+      "DAYANA BROME",
+      "FADI ASRAWI",
+      "GARABED BOGHOSSIAN",
+      "GEORGES HATEM",
+      "GHASSAN CONSTANTINE",
+      "HAGOP KARAKAZIAN",
+      "HANINE HOUT-GHARZEDDINE",
+      "HASSIB AUDI",
+      "ILHAM KASSAS",
+      "ILSA AWWAD",
+      "ISRAA ABDULHAK",
+      "JAMAL SAKAYA",
+      "JEAN SALMANIAN",
+      "JOSEPH AL-AGHA",
+      "JOSEPH MOUDABBER",
+      "KHALED ABDALLAH",
+      "KHALIL ABDO",
+      "KHOLOUD BARAKAT",
+      "LEA MERHI",
+      "LEA MIA ASFOUR",
+      "LENA KARAGUEZIAN",
+      "LUCY TAVITIAN",
+      "LYNN EL AMINE",
+      "MARIE ROSE SAMAHA",
+      "MARION ALEXANDRA ADAMS",
+      "MAYA BOU NASSIF",
+      "MAYA HASSAN",
+      "MEGHRY TCHANGOULIAN",
+      "MELISSA LOUAK",
+      "MIREILLE BOGHARIAN",
+      "MIRJAM POLAK",
+      "MOHAMAD ABDALLAH",
+      "MOHAMAD ABOU EL HASSAN",
+      "NADEEN FAYAD",
+      "NADER NASSIF",
+      "NADIM HASSOUN",
+      "NAJIB ABDELNOUR",
+      "NAJOIE NASR",
+      "NANCY AOUN",
+      "NAZIM NOUIEHED",
+      "NIZAR MEHTAR",
+      "NJTEH MKHSIAN",
+      "NOHA IBRAHIM",
+      "NOT ASSIGNED",
+      "OUSAMA RAMADAN",
+      "PAMELA COLANTONIO",
+      "RACHID HAMDAN",
+      "RAED JREIDINI",
+      "RANIA SHEHADEH-MANSOUR",
+      "RAQUELLE KEJEJIAN (CHIDIAC)",
+      "RAYAN JABER",
+      "RITA EL MEOUCHY",
+      "RITA MERHEJ",
+      "ROLA CHUKRI",
+      "ROLA OTHMAN",
+      "ROUA DAOU",
+      "RULA HALABY",
+      "SAMI NASR",
+      "SERENE JORDI",
+      "SHAGHIG HUDAVERDIAN",
+      "SHANT ESTEPAN",
+      "SHAZA ISMAIL",
+      "SHEREEN KREIDIEH",
+      "SHOGHIG KALOUSSIAN",
+      "SIMA HAMADEH",
+      "SUHA HADDAD NAIMY",
+      "SUHA SAFIYIDDEEN",
+      "TALA SAMMAN KAAKAJI",
+      "VATCHE TAZIAN",
+      "VERA CHOULHADJIAN",
+      "VERA KARAGUEZIAN",
+      "WALID RIHANE",
+      "WILHELMUS VAN SAANE",
+      "WISSAM HADDAD",
+      "WISSAM KHEIR",
+      "ZIAD SUIDAN"
+   ],
+   "course_names": [
+      "ARM 0270E",
+      "CSC 0299",
+      "MAT 0100",
+      "MIS 0272",
+      "ENG 0238",
+      "MLS 0219L",
+      "MLS 0290",
+      "EDU 0399A",
+      "EDU 0206",
+      "ADC 0244",
+      "PSY 0101",
+      "BIO 0225",
+      "PSC 0235",
+      "PSC 0295",
+      "PSY 0201",
+      "EDU 0321",
+      "GMAT",
+      "EDU 0399B",
+      "FIN 0231",
+      "HRM 0223",
+      "PSC 0212",
+      "CHY 0211",
+      "PSY 0399C",
+      "MLS 0207",
+      "ECO 0216",
+      "ECE 0211",
+      "HOM 0299",
+      "HRM 0299",
+      "SPE 0222",
+      "ARA 0259",
+      "BAD 0255",
+      "ADC 0299",
+      "BIO 0220",
+      "HOM 0200",
+      "NSD 0270",
+      "PSY 0218",
+      "ENG 0202",
+      "SOW 0242",
+      "PSY 0344A",
+      "NSD 0290",
+      "ECO 0101",
+      "ARA 0201",
+      "SOC 0241",
+      "CSC 0201",
+      "PSY 0399E",
+      "BIO 0221",
+      "IST 0226",
+      "ACC 0299",
+      "BAD 0281",
+      "CSC 0236",
+      "MLS 0205L",
+      "ENG 0000",
+      "HRM 0200",
+      "HOM 0498",
+      "MLS 0299C",
+      "NSD 0225",
+      "PSY 0301",
+      "ADC 0241",
+      "CSC 0233",
+      "EDU 0331",
+      "IST 0204",
+      "BAD 0355",
+      "MAT 0204",
+      "SPE 0201",
+      "MAT 0104",
+      "SOW 0201",
+      "BAD 0200",
+      "ENG 0101",
+      "ECE 0208",
+      "CHY 0212",
+      "CSC 0276",
+      "MLS 0221",
+      "FIN 0220",
+      "EDU 0247",
+      "SOW 0221",
+      "EDU 0218",
+      "ENG 0001",
+      "CSC 0271",
+      "SOW 0223",
+      "ACC 0213",
+      "ECO 0217",
+      "NSD 0230",
+      "BAD 0316",
+      "REL 0218",
+      "BAD 0295F",
+      "CHY 0200",
+      "SOC 0211",
+      "MLS 0226",
+      "REL 0215",
+      "BAD 0299",
+      "EDU 0211C",
+      "PSY 0322",
+      "MAT 0201",
+      "ENG 0207",
+      "MIS 0284L",
+      "HOM 0469",
+      "BIO 0292A",
+      "ENG 0292K",
+      "OR 0099",
+      "ARM 0203",
+      "HIS 0102",
+      "ARM 0269",
+      "CSC 0205",
+      "EDU 0229",
+      "MLS 0226L",
+      "BIO 0226",
+      "ECE 0206",
+      "IST 0203",
+      "EDU 0399C",
+      "SOW 0202",
+      "LST 0267",
+      "EDU 0100M",
+      "MLS 0299",
+      "CHY 0201",
+      "BIO 0200",
+      "MIS 0295",
+      "HOM 0357",
+      "PSY 0228",
+      "MAT 0102",
+      ".",
+      "PSY 0202",
+      "PSY 0324F",
+      "CSC 0202",
+      "SOW 0211",
+      "PHY 0206",
+      "BAD 0399G",
+      "ADC 0246",
+      "PSC 0229",
+      "PSC 0202",
+      "CSC 0263",
+      "CSC 0204",
+      "CSC 0233L",
+      "MLS 0230L",
+      "PSY 0399D",
+      "BAD 0301",
+      "MLS 0206",
+      "BAD 0399B",
+      "HRM 0211",
+      "BIO 0207L",
+      "ECO 0299",
+      "HRM 0238",
+      "ENG 0292Q",
+      "LST 0261",
+      "IST 0205",
+      "PSY 0237",
+      "BIO 0235",
+      "CSC 0200",
+      "EDU 0223",
+      "BIO 0201",
+      "ECO 0231",
+      "SOW 0231",
+      "BAD 0315",
+      "CHY 0208",
+      "ACC 0212",
+      "MLS 0205",
+      "PHY 0102L",
+      "ACC 0215",
+      "PSC 0211",
+      "PSY 0321",
+      "PSY 0230",
+      "PSY 0329",
+      "MAT 0101",
+      "ECO 0201",
+      "FIN 0221",
+      "HOM 0499",
+      "MIS 0299",
+      "NSD 0260",
+      "CSC 0251",
+      "MLS 0240",
+      "PSC 0299",
+      "PSY 0399B",
+      "SPE 0219",
+      "BIO 0221L",
+      "BAD 0309",
+      "ARM 0212",
+      "BIO 0293",
+      "EDU 0241",
+      "MIS 0276",
+      "MLS 0225",
+      "ADC 0240",
+      "MAT 0233",
+      "BAD 0354",
+      "SPE 0230",
+      "BAD 0399A",
+      "GEO 0204",
+      "MLS 0219",
+      "ENG 0248",
+      "HRM 0229",
+      "PHY 0102",
+      "BAD 0271",
+      "BIO 0201L",
+      "ENG 0204",
+      "MIS 0284",
+      "PSY 0399A",
+      "ENG 0227",
+      "EDU 0100S",
+      "MLS 0230",
+      "ECE 0235",
+      "EDU 0201",
+      "ECE 0201",
+      "PHY 0204",
+      "FIN 0299",
+      "PSY 0212",
+      "WRN 0200",
+      "BAD 0231",
+      "CSC 0252",
+      "EDU 0202",
+      "ENG 0205A",
+      "PSC 0238",
+      "BIO 0207",
+      "PSC 0201",
+      "FIN 0227",
+      "PSY 0222",
+      "SPE 0205",
+      "ENG 0102",
+      "BAD 0327",
+      "NSD 0202",
+      "PSY 0204",
+      "EDU 0211A",
+      "BIO 0226L",
+      "ENG 0226",
+      "HOM 0250",
+      "ACC 0211",
+      "ECO 0232",
+      "NSD 0221",
+      "ECO 0202",
+      "FIN 0233",
+      "EDU 0232",
+      "PSY 0399F",
+      "CHY 0101",
+      "MLS 0221L",
+      "MLS 0202",
+      "MIS 0274",
+      "EDU 0221",
+      "CHY 0101L",
+      "PSC 0233",
+      "SOC 0201",
+      "ENG 0201",
+      "HOM 0241",
+      "EDU 0399D",
+      "BIO 0101",
+      "BAD 0308"
+   ]
+}

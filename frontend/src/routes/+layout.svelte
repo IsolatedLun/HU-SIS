@@ -1,5 +1,5 @@
 <script>
-
+    export const prerender = true;
 	import Navbar from "../components/Layouts/Navbar/Navbar.svelte";
 
 </script>

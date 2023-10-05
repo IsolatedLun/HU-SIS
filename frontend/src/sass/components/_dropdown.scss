@@ -7,8 +7,10 @@
         border-radius: $border-radius-bevelled;
         border: $dropdown-list-border;
 
+        top: var(--_dropdown-list-top, #{$dropdown-list-top});
+        left: var(--_dropdown-list-left, #{$dropdown-list-left});
+
         z-index: $z-index-10000;
-        right: 0;
     }
 
 
@@ -22,9 +24,8 @@
         z-index: -1;
     }
 
-    &:is(:hover) .dropdown-list,
-    .dropdown-list:hover {
+    &:is(:hover, :focus-visible) .dropdown-list,
+    .dropdown-list:is(:hover, :focus-visible) {
         visibility: visible;
-        top: var(--_dropdown-list-distance, #{$dropdown-list-distance});
     }
 }

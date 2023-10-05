@@ -1,5 +1,9 @@
 .schedule-section {
     &__table .dropdown-container {
-        --_dropdown-list-distance: 2.75rem;
+        --_dropdown-list-top: 2.75rem;
+    }
+
+    &__table-mobile .dropdown-container {
+        --_dropdown-list-left: 50%;
     }
 }

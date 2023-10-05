@@ -11,6 +11,8 @@
 	import ListColumn from './Table/ListColumn.svelte';
 	import { capitalize } from '../../../utils/general';
 	import { filterSchedule } from './funcs';
+	import DesktopTable from './Table/DesktopTable.svelte';
+	import MobileTable from './Table/MobileTable.svelte';
 
 	function addDay(day: T_Days) {
 		query.days.includes(day)
@@ -20,9 +22,9 @@
 		query = query;
 	}
 
-    function resetTime() {
-        query.time = ['', ''];
-    }
+	function resetTime() {
+		query.time = ['', ''];
+	}
 
 	let query: T_SectionScheduleQuery = {
 		courseName: '',
@@ -52,7 +54,13 @@
 				list={scheduleData.instructors}
 			/>
 		</Flex>
-		<Flex cls={cubeCss('', '', 'width-100')} justify="space-between">
+		<Flex
+			cls={cubeCss('', '', 'width-100')}
+			justify="space-between"
+			collapseOnMobile={true}
+			alignCenterOnMobile={true}
+			gap={3}
+		>
 			<Flex>
 				{#each daysArray as day}
 					<Button
@@ -65,45 +73,23 @@
 				{/each}
 			</Flex>
 			<Flex align="center" gap={3}>
-				<Button 
-                    on:click={() => resetTime()}
-                    cls={cubeCss('width-100', '', '')} 
-                    attachments={['small-pad', 'hologram', 'mix']}
-					>Reset</Button
+				<Button
+					on:click={() => resetTime()}
+					cls={cubeCss('width-100', '', '')}
+					attachments={['small-pad', 'hologram', 'mix']}>Reset</Button
 				>
-				<Flex align='center'>
-                    <Input bind:value={query.time[0]} label="Start Time" type="time" />
-                    <p>-</p>
-                    <Input bind:value={query.time[1]} label="End Time" type="time" />
-                </Flex>
+				<Flex align="center">
+					<Input bind:value={query.time[0]} label="Start Time" type="time" />
+					<p>-</p>
+					<Input bind:value={query.time[1]} label="End Time" type="time" />
+				</Flex>
 			</Flex>
 		</Flex>
 	</Flex>
 	<main class="[ schedule-section ] [ margin-block-2 ]">
 		<h2 class="[ margin-block-end-1 ] [ fw-500 ]">Courses</h2>
 
-		<Table cls={cubeCss('schedule-section__table', '', 'fs-300')}>
-			<thead slot="thead">
-				<tr>
-					{#each Object.keys(scheduleData.courses[0]) as header}
-						<td class="[ fw-500 fs-350 ]">{capitalize(header)}</td>
-					{/each}
-				</tr>
-			</thead>
-
-			<tbody slot="tbody">
-				{#each filterSchedule(scheduleData.courses, query) as course}
-					<tr>
-						{#each Object.entries(course) as [key, value]}
-							{#if ['days', 'time', 'room'].includes(key)}
-								<ListColumn {value} />
-							{:else}
-								<td>{value}</td>
-							{/if}
-						{/each}
-					</tr>
-				{/each}
-			</tbody>
-		</Table>
+		<DesktopTable {scheduleData} {query} />
+		<MobileTable {scheduleData} {query} />
 	</main>
 </div>

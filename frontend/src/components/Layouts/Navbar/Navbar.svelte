@@ -15,7 +15,7 @@
 	<Flex align="center">
 		<a href="/home">
 			<Flex align="center" justify="start" gap={2}>
-				<img class="uni-logo" src="/haigazian_logo.png" alt="Haigazial logo" />
+				<img class="uni-logo" src="https://www.haigazian.edu.lb/wp-content/uploads/2021/01/HU-LOGO.png" alt="Haigazial logo" />
 			</Flex>
 		</a>
 		<div data-desktop='true'>
@@ -39,7 +39,7 @@
 
 <nav class="[ mobile-navbar ] [ pos-fixed padding-2 ]" data-show={showMobileNavbar}>
 	<Flex align='center' justify="space-between">
-		<img class="mobile-navbar__uni-logo" src="./haigazian_logo.png" alt="Haigazial logo" />
+		<img class="mobile-navbar__uni-logo" src="https://www.haigazian.edu.lb/wp-content/uploads/2021/01/HU-LOGO.png" alt="Haigazial logo" />
 		<Button on:click={() => showMobileNavbar = !showMobileNavbar} variant='error' attachments={['hologram', 'mix']}>
 			<Icon ariaLabel='Close navigation'>{ICON_TIMES}</Icon>
 		</Button>

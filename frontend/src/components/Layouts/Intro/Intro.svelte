@@ -25,7 +25,7 @@ import Flex from "../../Modules/FlexAndGrid/Flex.svelte";
     <section class="[ intro__text ]  [ grid place-items-center ]">
         <img class="[ intro__img ]" src="./haigazian.webp" alt="Haigazian">
         <div class="[ pos-absolute ] [ grid place-items-center text-align-center ]">
-            <img class="[ uni-logo ]" src="./haigazian_logo.png" alt="Haigazian logo" />
+            <img class="[ uni-logo ]" src="https://www.haigazian.edu.lb/wp-content/uploads/2021/01/HU-LOGO.png" alt="Haigazian logo" />
             <h1 class="[ margin-block-1 ]">Haigazian University</h1>
             <p class="[ margin-inline-10 fw-500 ]">Use our modern Student Information System and find what you are looking for.</p>
         </div>
