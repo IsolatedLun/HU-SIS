@@ -42,7 +42,7 @@ $z-index-10000: 999999;
 
 $global-gap: 1rem;
 
-$global-heading-line-height: 1.6;
+$global-heading-line-height: 1.4;
 $global-paragraph-line-height: 1.2;
 
 $global-accent-color: $clr-primary-400;
@@ -107,6 +107,9 @@ $table-bright-background: $clr-neutral-500;
 $table-box-shadow: 0 0 32px 2px rgba(0 0 0 / 0.4);
 
 $table-border: 1px solid $clr-neutral-700;
+
+// Announcement
+$announcement-grid: repeat(auto-fit, minmax(344px, 1fr));
 
 // Uni Logo
 $uni-logo-small-size: 4rem;

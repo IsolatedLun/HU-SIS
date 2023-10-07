@@ -1,0 +1,9 @@
+@use '../abstracts/' as *;
+
+.announcement-grid {
+    grid-template-columns: $announcement-grid;
+
+    img {
+        aspect-ratio: 16 / 9;
+    }
+}

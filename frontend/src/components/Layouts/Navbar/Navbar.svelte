@@ -22,7 +22,7 @@
 			<Flex align="center" justify="center" gap={3}>
 				<NavbarLinkSection />
 				
-				<Button to='./' variant="error" attachments={['hologram', 'mix']}>
+				<Button to='/' variant="error" attachments={['hologram', 'mix']}>
 					<span>Log out</span>
 					<Icon>{ICON_POWER}</Icon>
 				</Button>
@@ -50,4 +50,11 @@
 			<MobileNavbarLinkSection {section} />
 		{/each}
 	</Flex>
+
+	<Button to='/' cls={cubeCss('', '', 'margin-block-start-3')} variant="error" attachments={['hologram', 'mix']}>
+		<Flex cls={cubeCss('', '', 'width-100')} align='center' justify='center'>
+			<span>Log out</span>
+			<Icon>{ICON_POWER}</Icon>
+		</Flex>
+	</Button>
 </nav>

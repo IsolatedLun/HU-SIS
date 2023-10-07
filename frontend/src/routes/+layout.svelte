@@ -1,11 +1,5 @@
-<script>
-    export const prerender = true;
-	import Navbar from "../components/Layouts/Navbar/Navbar.svelte";
-
-</script>
+<slot />
 
 <style>
     @import url('../../static/posty.css');
 </style>
-
-<slot />

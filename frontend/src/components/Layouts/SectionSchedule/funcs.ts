@@ -1,19 +1,21 @@
-import { convertTimeFormatToDate } from "../../../utils/general";
+import { convertTimeFormatToDate, isSubStr } from "../../../utils/general";
 import type { T_SectionCourse, T_SectionScheduleQuery } from "./types";
 
+// TODO
+// Optimize filtering by putting all of the logic in a single filter loop
 export function filterSchedule(courses: T_SectionCourse[], query: T_SectionScheduleQuery) {
     courses = courses
-    .filter(x => x.course.toLowerCase().indexOf(query.courseName.toLowerCase()) > -1)
-    .filter(x => x.instructor.toLowerCase().indexOf(query.instructor.toLowerCase()) > -1)
-    .filter(x => {
+    .filter(course => isSubStr(course.course, query.courseName))
+    .filter(course => isSubStr(course.instructor, query.instructor))
+    .filter(course => {
         const from1 = query.time[0] ? convertTimeFormatToDate(query.time[0]) : null;
         const till1 = query.time[1] ? convertTimeFormatToDate(query.time[1]) : null;
 
-        for(let i = 0; i < x.time.length; i++) {
-            if(x.time[i] === 'TBA')
+        for(let i = 0; i < course.time.length; i++) {
+            if(course.time[i] === 'TBA')
                 return false;
             
-            const [start, end] = x.time[i].split(' - ')
+            const [start, end] = course.time[i].split(' - ')
             const from2 = convertTimeFormatToDate(start);
             const till2 = convertTimeFormatToDate(end);
 
@@ -34,16 +36,16 @@ export function filterSchedule(courses: T_SectionCourse[], query: T_SectionSched
     })
 
     if(query.days.length > 0)
-        courses = courses.filter(x => {
+        courses = courses.filter(course => {
             for(let i = 0; i < query.days.length; i++) {
-                if(Array.isArray(x.days[0])) {
-                    for(let j = 0; j < query.days.length; j++) {
-                        if(x.days[j].includes(query.days[i]))
+                if(Array.isArray(course.days[0])) {
+                    for(let j = 0; j < course.days.length; j++) {
+                        if(course.days[j].includes(query.days[i]))
                             return true;
                     }
                 }
                 
-                if(x.days.includes(query.days[i]))
+                else if(course.days.includes(query.days[i]))
                     return true;
             }
 

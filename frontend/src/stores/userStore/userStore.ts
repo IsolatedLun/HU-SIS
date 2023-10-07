@@ -7,7 +7,9 @@ function createUserStore() {
     const store = writable<Store_User>({
         id: -1,
         name: "",
-        schedule: {}
+        schedule: {},
+
+        isLogged: false,
     })
 
     return {
@@ -19,6 +21,7 @@ function createUserStore() {
         setUser: (id: number, name: string) => store.update((_this) => {
             _this.id = id;
             _this.name = name;
+            _this.isLogged = true;
 
             return _this;
         }),

@@ -13,3 +13,7 @@ export function convertTimeFormatToDate(x: string) {
     date.setHours(hours, minutes);
     return date;
 }
+
+export function isSubStr(text: string, substr: string) {
+    return text.toLowerCase().indexOf(substr.toLowerCase()) > -1;
+}

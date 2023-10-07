@@ -63,5 +63,11 @@ with open(PATH, 'r', encoding='utf-8') as f:
     DATA['instructors'] = list(instructors_set)
     DATA['instructors'].sort()
 
+    count = 0
+    for x in DATA['courses']:
+        if(x['course'] != '.' and x['type'] != 'Lab'):
+            count += int(x['capacity'].split('/')[0])
+    print(count - 128)
+
     with open('schedule.json', 'w', encoding='utf-8') as outf:
         json.dump(DATA, outf, indent=3)

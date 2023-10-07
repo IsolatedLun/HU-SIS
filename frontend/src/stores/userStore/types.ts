@@ -14,4 +14,6 @@ export interface Store_User {
     id: number;
     name: string;
     schedule: Record<string, Schedule>;
+
+    isLogged: boolean;
 }
