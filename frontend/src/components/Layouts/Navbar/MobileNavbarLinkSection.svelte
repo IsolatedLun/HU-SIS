@@ -1,6 +1,6 @@
 <script lang="ts">
+	import { createEventDispatcher } from 'svelte';
 	import type { UrlTuple } from '../../../stores/urlStore/types';
-	import type { Schedule } from '../../../stores/userStore/types';
 	import { cubeCss } from '../../../utils/cubeCss/cubeCss';
 	import Button from '../../Interactibles/Button/Button.svelte';
 	import Card from '../../Modules/Card/Card.svelte';
@@ -11,6 +11,8 @@
 
 	export let expand = false;
 	export let section: [string, UrlTuple[]];
+
+	const dispatch = createEventDispatcher();
 </script>
 
 <Button
@@ -33,6 +35,7 @@
 					{#each section[1] as [text, url]}
 						<li class="width-100">
 							<Button
+								on:click={() => dispatch('urlChange')}
 								cls={cubeCss('', '', 'text-align-center width-100')}
 								variant="neutral"
 								attachments={['mix']}

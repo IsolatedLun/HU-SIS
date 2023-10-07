@@ -1,5 +1,5 @@
 import { get, writable } from "svelte/store"
-import type { Schedule, Store_User } from "./types"
+import type { T_Schedule, Store_User, T_PaymentSlip } from "./types"
 import { calculateTotalCredits, calculateTotalHours } from "./funcs";
 import { convertTimeFormatToDate } from "../../utils/general";
 
@@ -8,6 +8,7 @@ function createUserStore() {
         id: -1,
         name: "",
         schedule: {},
+        payments: [],
 
         isLogged: false,
     })
@@ -26,7 +27,7 @@ function createUserStore() {
             return _this;
         }),
 
-        setSchedule: (schedule: Record<string, Schedule>) => store.update((_this) => {
+        setSchedule: (schedule: Record<string, T_Schedule>) => store.update((_this) => {
             _this.schedule = schedule;
 
             return _this;
@@ -35,7 +36,13 @@ function createUserStore() {
         // Getters
         getSchedule: () => get(store).schedule,
         getTotalCredits: () => calculateTotalCredits(Object.values(get(store).schedule)),
-        getTotalHours: () => calculateTotalHours(Object.values(get(store).schedule))
+        getTotalHours: () => calculateTotalHours(Object.values(get(store).schedule)),
+
+        // Adders
+        addPaymentSlip: (payment: T_PaymentSlip) => store.update(_this => {
+            _this.payments.push(payment);
+            return _this;
+        })
     }
 }
 
@@ -78,4 +85,19 @@ userStore.setSchedule({
         location: "COL 502",
         time: [convertTimeFormatToDate("16:00"), convertTimeFormatToDate("17:15")]
     }
-})
+});
+
+userStore.addPaymentSlip({
+    id: 1,
+    type: 'usd',
+    fullNetToPay: 9000,
+    paidAmount: 200,
+    due_date: new Date(),
+});
+userStore.addPaymentSlip({
+    id: 2,
+    type: 'lbp',
+    fullNetToPay: 9000,
+    paidAmount: 0,
+    due_date: new Date(),
+});

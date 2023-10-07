@@ -18,6 +18,8 @@
                 {ann.title} <span class="clr-misc-text-muted fs-300">- {ann.date_created}</span>
             </h2>
         </Flex>
-        <a class="[ display-block margin-block-start-2 ]" href={ann.link}>Continue reading</a>
+        <a class="[ display-block margin-block-start-2 ]" href={ann.link} target="_blank">
+            Continue reading
+        </a>
     </Card>
 </div>

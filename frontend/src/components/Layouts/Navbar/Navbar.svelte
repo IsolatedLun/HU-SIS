@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { onMount } from 'svelte';
 	import { urlStore } from '../../../stores/urlStore/urlStore';
 	import { cubeCss } from '../../../utils/cubeCss/cubeCss';
 	import Button from '../../Interactibles/Button/Button.svelte';
@@ -47,7 +48,7 @@
 
 	<Flex cls={cubeCss('', '', 'margin-block-start-5')} useColumn={true} align='center'>
 		{#each Object.entries($urlStore) as section}
-			<MobileNavbarLinkSection {section} />
+			<MobileNavbarLinkSection {section} on:urlChange={() => showMobileNavbar = false} />
 		{/each}
 	</Flex>
 

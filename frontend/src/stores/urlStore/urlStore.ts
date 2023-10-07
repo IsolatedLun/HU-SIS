@@ -13,7 +13,7 @@ export const urlStore = writable<Store_Url>({
     "Info": [
         ["Announcements", "/home/announcements"],
         ["Schedule", "/home"],
-        ["Payment Slips", ""],
+        ["Payment Slips", "/home/payments"],
         // ["Instructor Evaluation", ""],
         // ["Grades", ""],
         // ["Program of Study", ""]
