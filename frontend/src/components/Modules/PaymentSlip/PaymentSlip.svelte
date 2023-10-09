@@ -13,19 +13,19 @@
         <tbody slot='tbody' class="fw-500">
             <tr>
                 <th class="fw-500">Full payment</th>
-                <td>{slip.fullNetToPay} USD</td>
+                <td>{slip.fullNetToPay.toLocaleString()} USD</td>
             </tr>
             <tr>
                 <th class="fw-500">Paid amount</th>
-                <td>{slip.paidAmount} USD</td>
+                <td>{slip.paidAmount.toLocaleString()} USD</td>
             </tr>
             <tr>
-                <th class="fw-500">Amout left</th>
-                <td>{slip.fullNetToPay - slip.paidAmount} USD</td>
+                <th class="fw-500">Amount left</th>
+                <td>{(slip.fullNetToPay - slip.paidAmount).toLocaleString()} USD</td>
             </tr>
             {#if slip.type === 'lbp'}
             <tr>
-                <th class="fw-500">Amout equivalent</th>
+                <th class="fw-500">Amount equivalent</th>
                 <td>{((slip.fullNetToPay - slip.paidAmount) * 15000).toLocaleString()} LL</td>
             </tr>
             {/if}

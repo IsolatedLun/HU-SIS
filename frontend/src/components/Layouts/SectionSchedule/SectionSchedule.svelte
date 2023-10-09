@@ -76,8 +76,9 @@
 				<Button
 					on:click={() => resetTime()}
 					cls={cubeCss('width-100', '', '')}
-					attachments={['small-pad', 'hologram', 'mix']}>Reset</Button
-				>
+					attachments={['small-pad', 'hologram', 'mix']}>
+					Reset <span class="visually-hidden">time</span>
+				</Button>
 				<Flex align="center">
 					<Input bind:value={query.time[0]} label="Start Time" type="time" />
 					<p>-</p>

@@ -9,7 +9,7 @@
 
 <div class="announcement">
     <header class="margin-block-end-1">
-        <img class="[ announcement__img ] [ border-radius-bevelled ]" src={ann.thumbnail} alt="" />
+        <img class="[ announcement__img ] [ border-radius-bevelled ]" src={ann.thumbnail} alt={ann.title} />
     </header>
 
     <Card>

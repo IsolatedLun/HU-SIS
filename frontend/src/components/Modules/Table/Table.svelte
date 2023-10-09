@@ -2,6 +2,7 @@
     import { cubeCss } from "../../../utils/cubeCss/cubeCss";
 
     export let cls = cubeCss('', '', '');
+    export let caption: string = '';
 
     const _class = cls.extend(
         'table',
@@ -12,6 +13,9 @@
 
 <div class="[ table-container ] [ width-100 ]">
     <table class="{_class.toString()}">
+        {#if caption}
+            <caption class="visually-hidden">{caption}</caption>
+        {/if}
         <slot name='thead' />
         <slot name='tbody' />
     </table>
