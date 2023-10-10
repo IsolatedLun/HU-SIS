@@ -21,7 +21,7 @@ export interface T_PaymentSlip {
 }
 
 export interface Store_User {
-    id: number;
+    id: number | string;
     name: string;
     schedule: Record<string, T_Schedule>;
     payments: T_PaymentSlip[];

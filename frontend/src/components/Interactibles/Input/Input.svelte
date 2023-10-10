@@ -58,7 +58,7 @@
 	useColumn={true}
 	use={(e) => e.setAttribute('data-variant', variant)}
 >
-	<label for={id} hidden={!showLabel}>
+	<label class="clr-misc-text-muted" for={id} hidden={!showLabel}>
 		{label}
 	</label>
 	<div class="[ pos-relative width-100 ]">

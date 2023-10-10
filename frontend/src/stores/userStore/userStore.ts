@@ -19,7 +19,7 @@ function createUserStore() {
         set: store.set,
 
         // Setters
-        setUser: (id: number, name: string) => store.update((_this) => {
+        setUser: (id: number | string, name: string) => store.update((_this) => {
             _this.id = id;
             _this.name = name;
             _this.isLogged = true;
@@ -48,7 +48,7 @@ function createUserStore() {
 
 export const userStore = createUserStore();
 
-userStore.setUser(2410040, "Joe Mozian")
+userStore.setUser(2410040, "Joe Mozian");
 userStore.setSchedule({
     "English 201": {
         section: 2,

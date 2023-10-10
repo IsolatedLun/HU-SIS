@@ -1,0 +1,7 @@
+@use '../abstracts/' as *;
+
+.login-form-container {
+    &__uni-logo {
+        max-width: $uni-logo-large-size;
+    }
+}
